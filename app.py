@@ -9,7 +9,7 @@ def load_clustered_data():
 
 # Streamlit app function
 def main():
-    st.markdown("Cousins Sendekera R207642E HAI")
+    st.markdown("News Categories for fours newpapers")
 
     st.title("NEWS ARTICLE CLUSTERING")
 
